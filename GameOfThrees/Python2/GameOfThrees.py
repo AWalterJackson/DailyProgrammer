@@ -12,4 +12,4 @@ while input != 1:
             print str(input) + " -1"
             input = (input - 1) / 3
 print input
-        
+        #comment this biiiiitch
