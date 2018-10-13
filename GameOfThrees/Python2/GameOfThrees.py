@@ -13,3 +13,4 @@ while input != 1:
             input = (input - 1) / 3
 print input
         #comment this biiiiitch
+		#you dont even know
